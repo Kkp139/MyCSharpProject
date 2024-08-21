@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|c:\\users\\lenovo\\onedrive\\desktop\\carmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|c:\\users\\lenovo\\onedrive\\desktop\\carmodel\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|solutionrelative:userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|c:\\users\\lenovo\\onedrive\\desktop\\carmodel\\altoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8979C-55B5-4681-BBA5-7AAF87725F74}|CarModel.csproj|solutionrelative:altoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltoClass.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\AltoClass.cs",
+              "RelativeDocumentMoniker": "AltoClass.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\AltoClass.cs",
+              "RelativeToolTip": "AltoClass.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:07:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\UserClass.cs",
+              "RelativeDocumentMoniker": "UserClass.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\UserClass.cs",
+              "RelativeToolTip": "UserClass.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAIA1wJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:06:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CarModel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:04:55.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

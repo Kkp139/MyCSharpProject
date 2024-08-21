@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\bin\Debug\net8.0\CarModel.exe
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\bin\Debug\net8.0\CarModel.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\bin\Debug\net8.0\CarModel.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\bin\Debug\net8.0\CarModel.dll
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\bin\Debug\net8.0\CarModel.pdb
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.dll
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\refint\CarModel.dll
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.pdb
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\CarModel.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\CarModel\obj\Debug\net8.0\ref\CarModel.dll
